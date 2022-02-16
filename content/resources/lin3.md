@@ -1,0 +1,17 @@
+---
+content_type: resource
+description: "Andy Lin, photograph #3.\r\n\r\n"
+file: /media/courses/4-341-introduction-to-photography-and-related-media-fall-2007/d2dbb59103b45a4e87b13617843c7c25_lin3.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: 'Andy Lin, photograph #3.'
+  credit: 'Credit: Image courtesy of Andy Lin.'
+  image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Andy Lin
+parent_type: CourseSection
+resourcetype: Image
+title: 'Andy Lin, photograph #3.'
+uid: d2dbb591-03b4-5a4e-87b1-3617843c7c25
+---

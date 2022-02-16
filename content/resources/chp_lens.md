@@ -4,12 +4,14 @@ description: 'This semester''s course was based on the theme of "Through the Len
   Exploring the Department of Brain and Cognitive Sciences" and explored how cognition,
   vision, and memory might be thought about in the context of photography. (Photograph
   courtesy of Karen Law.)'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-341-introduction-to-photography-and-related-media-fall-2007/886a9e411c2652313919bae190d2c399_chp_lens.jpg
+file: /media/courses/4-341-introduction-to-photography-and-related-media-fall-2007/886a9e411c2652313919bae190d2c399_chp_lens.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_lens.jpg
 uid: 886a9e41-1c26-5231-3919-bae190d2c399
