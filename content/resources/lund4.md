@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Gavin Lund
 parent_type: CourseSection
+parent_uid: 648ec326-3e9e-0376-d4b7-eb6a35c0469f
 resourcetype: Image
 title: 'Gavin Lund, photograph #4.'
 uid: a7978f64-e6e4-b90e-e31e-8b46d92d9048

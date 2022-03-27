@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Ilan Moyer
 parent_type: CourseSection
+parent_uid: 824e3778-ea63-e9d1-d4b1-c62c41099d79
 resourcetype: Image
 title: 'Ilan Moyer, photograph #3.'
 uid: f5195b72-da1c-642b-3064-4234eccf180a

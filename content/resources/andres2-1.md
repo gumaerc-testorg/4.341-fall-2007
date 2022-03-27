@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Megan Pennington-Boggio
 parent_type: CourseSection
+parent_uid: ca9e50f9-d2b1-177e-3d9d-a26e6b00ba13
 resourcetype: Image
 title: 'Megan Pennington-Boggio, photograph #2.'
 uid: b8de6fa7-af84-d6c2-c1ac-b8421572417e

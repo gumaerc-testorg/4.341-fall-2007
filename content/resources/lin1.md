@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Andy Lin
 parent_type: CourseSection
+parent_uid: e081e9ad-2c64-7b00-1ec9-a11a7dc742ff
 resourcetype: Image
 title: 'Andy Lin, photograph #1.'
 uid: 7ea99aef-0f89-5186-e948-1d48de101f63

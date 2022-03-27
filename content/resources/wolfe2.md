@@ -1,14 +1,18 @@
 ---
 content_type: resource
-description: A student's description of his student project.
-file: /media/courses/4-341-introduction-to-photography-and-related-media-fall-2007/0f030176fee9d5771eb2ca9009091d32_wolfe.pdf
-file_type: application/pdf
-learning_resource_types:
-- Projects
-ocw_type: OCWFile
-parent_title: Projects
+description: "Ian Wolfe, photograph #2.\r\n\r\n"
+file: /media/courses/4-341-introduction-to-photography-and-related-media-fall-2007/71882d5246efb8e583be4bab328a9309_wolfe2.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: 'Ian Wolfe, photograph #2.'
+  credit: 'Credit: Image courtesy of Ian Wolfe.'
+  image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Ian Wolfe
 parent_type: CourseSection
-resourcetype: Document
-title: wolfe.pdf
-uid: 0f030176-fee9-d577-1eb2-ca9009091d32
+parent_uid: 617ff68f-8bf7-760f-c7a4-1f41ae6ec942
+resourcetype: Image
+title: 'Ian Wolfe, photograph #2.'
+uid: 71882d52-46ef-b8e5-83be-4bab328a9309
 ---

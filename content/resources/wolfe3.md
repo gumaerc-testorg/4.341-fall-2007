@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Ian Wolfe
 parent_type: CourseSection
+parent_uid: 617ff68f-8bf7-760f-c7a4-1f41ae6ec942
 resourcetype: Image
 title: 'Ian Wolfe, photograph #3.'
 uid: b41fbee4-95d8-a98d-f23d-5c1341b6e398

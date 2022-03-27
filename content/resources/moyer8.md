@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Ilan Moyer
 parent_type: CourseSection
+parent_uid: 824e3778-ea63-e9d1-d4b1-c62c41099d79
 resourcetype: Image
 title: 'Ilan Moyer, installation photo #5.'
 uid: 3f780891-b487-7ce7-5e98-5b3eef8886a3

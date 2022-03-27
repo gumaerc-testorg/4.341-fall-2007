@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Jessica Lee
 parent_type: CourseSection
+parent_uid: edbd8af1-b2bb-9854-28f2-aa506f85be5b
 resourcetype: Image
 title: 'Jessica Lee, installation photo #1.'
 uid: 3e9b6364-01ba-5085-4115-2d96df48e96e

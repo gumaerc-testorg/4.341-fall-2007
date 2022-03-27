@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Jessica Lee
 parent_type: CourseSection
+parent_uid: edbd8af1-b2bb-9854-28f2-aa506f85be5b
 resourcetype: Image
 title: 'Jessica Lee, photograph #3.'
 uid: 860bd9e2-ea05-d2a4-7e80-e3b61c7f600f

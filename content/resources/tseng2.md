@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tiffany Tseng
 parent_type: CourseSection
+parent_uid: 32c1b603-75d5-bffc-ebd4-59a9bba994e8
 resourcetype: Image
 title: 'Tiffany Tseng, photograph #2.'
 uid: 945c19fc-31c1-a06a-0b0f-33e1fd7e3121

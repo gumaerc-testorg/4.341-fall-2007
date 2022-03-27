@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 600855e2-0c52-f75d-6912-2698016f2072
 resourcetype: Document
 title: artscouncil.pdf
 uid: 62c87a75-6ee5-3b0b-316f-cd708e27010c

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Biyeun Buczyk
 parent_type: CourseSection
+parent_uid: 60274bd4-7c9f-2eec-d187-02ae42bf5507
 resourcetype: Image
 title: Biyeun Buczyk
 uid: bbaf8142-37bd-a4c0-c31a-776b1e74a37c
