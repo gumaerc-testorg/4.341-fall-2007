@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -11,4 +12,4 @@ This page showcases the student projects, including both the photographs themsel
 
 The assignment was to develop a body of work that responds to the theme of Brain and Cognitive Science. Students were introduced to the theme through the readings, as well as the site visits and further discussions in the classroom. Part of the assignment was also to find a meaningful way of installing their project on site. Students could freely choose the medium (analog or digital photography, installation, etc.) and location for their project.
 
-Installation Posters ([PDF)]({{< baseurl >}}/resources/exhibit)
+Installation Posters ({{% resource_link 3d643cb9-5e42-7024-5207-3fe5bf735019 "PDF)" %}}

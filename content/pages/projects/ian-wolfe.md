@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -18,7 +19,7 @@ Photo booths are places of self expression. They are places to cathartically rel
 
 Photo Booth seeks to break down this moment even further by separating the emotions into two vector sums. Seeking to stay true to the original sense of timed self-exploration, the piece moves from a pure portrait through more extreme separations.
 
-Read more: [(PDF)]({{< baseurl >}}/resources/wolfe)
+Read more: {{% resource_link 0f030176-fee9-d577-1eb2-ca9009091d32 "(PDF)" %}}
 {{< image-gallery id="617ff68f-8bf7-760f-c7a4-1f41ae6ec942_nanogallery2" baseUrl="/courses/4-341-introduction-to-photography-and-related-media-fall-2007/" >}}
 {{< image-gallery-item href="8783d8de36309aa8d5ed01ee873caa4f_wolfe1.jpg" data-ngdesc="Ian Wolfe, photograph #1." text="Ian Wolfe, photograph #1." >}}
 {{< image-gallery-item href="71882d5246efb8e583be4bab328a9309_wolfe2.jpg" data-ngdesc="Ian Wolfe, photograph #2." text="Ian Wolfe, photograph #2." >}}

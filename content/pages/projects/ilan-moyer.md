@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This project seeks to use the photographic medium to create a sensation
+  of tension within the viewer in a number of different ways.    '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

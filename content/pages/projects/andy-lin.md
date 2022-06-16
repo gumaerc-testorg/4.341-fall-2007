@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lenses    One crucial element that differentiates how people perceive
+  the world is the disparity between the lenses they look through. Lenses such as
+  glasses, contacts, microscopes, and magnifying lenses often alter the way reality
+  is perceived. Moreover, lenses even exist in our eyes and in the camera, dominating
+  human perception.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

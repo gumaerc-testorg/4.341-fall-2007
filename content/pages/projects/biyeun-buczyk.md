@@ -1,5 +1,17 @@
 ---
 content_type: page
+description: "Body  These images focus on how we interpolate a body (especially a\
+  \ human body) into images that we see, even if a body is not present.    Memory\
+  \  I remember most events in my life as clear, colorful photographs. However, faces\
+  \ by themselves blend in and out of darkness, merely offering an outline or a sketch\
+  \ \u2013 never quite the whole person. Even more obscure are memories from a specific\
+  \ period in my childhood, age four to seven, which interrupt an otherwise continuous\
+  \ montage of my life. During that time my family had moved to Khabarovsk, Russia,\
+  \ where, from what my parents told me, I fell unpleasantly sick very often. I vividly\
+  \ recall the day my family left Russia for good, and I vowed never to speak another\
+  \ word of Russian, which I had spoken fluently until that moment.    These images\
+  \ feature both recent self portraits and photos from the period of my childhood\
+  \ of which I have no memory."
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

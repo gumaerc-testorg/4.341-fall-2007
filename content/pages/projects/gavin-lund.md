@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: In my personal life, I tend toward individual activities that allow me
+  to escape and think for a while. I also find myself quite often in natural settings,
+  which can be very conducive to thought and meditation. This project encourages reflection
+  by immersing the viewer in the isolation of nature. The contrast, the lines in the
+  trees, and the patterns in the grass are meant to absorb the viewer's attention,
+  and in contemplating these forms, have the same relaxing, thought-promoting effect
+  as nature itself.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

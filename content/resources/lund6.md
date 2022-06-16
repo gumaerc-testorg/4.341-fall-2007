@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Gavin Lund, installation photo #2.'
-file: /media/courses/4-341-introduction-to-photography-and-related-media-fall-2007/53aab1129ed5b5edf4091ad5b55cfb29_lund6.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/53aab1129ed5b5edf4091ad5b55cfb29_lund6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Gavin Lund, installation photo #2.'
@@ -16,3 +16,5 @@ resourcetype: Image
 title: 'Gavin Lund, installation photo #2.'
 uid: 53aab112-9ed5-b5ed-f409-1ad5b55cfb29
 ---
+Gavin Lund, installation photo #2.
+

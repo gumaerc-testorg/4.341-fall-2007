@@ -1,5 +1,16 @@
 ---
 content_type: page
+description: Reality?  What is reality? How do we tell the difference between what
+  is real and what is an illusion? I want to explore how we feel when we think something
+  is real and then discover that it was not reality as we thought it was? I want to
+  contradict the general assumption that photographs are strictly real, or that they
+  show reality exactly as it is. These pictures are designed to confuse the brain,
+  to show something in such a way that we first perceive it as one thing, and then
+  discover that it is in fact not exactly as we thought it was. It is my hope that
+  as people walk through the BCS building, they will first see my photos and assume
+  that they are all real, but eventually they will stop to read the project description
+  and once they do, they'll begin to wonder about the actual content of all the images.
+  It is this uncertainty that I hope to foster with my project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-341-introduction-to-photography-and-related-media-fall-2007/38f7822537482f687858acf8e26ae14b_lee2.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/38f7822537482f687858acf8e26ae14b_lee2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Jessica Lee, photograph #2.'

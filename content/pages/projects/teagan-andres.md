@@ -1,5 +1,13 @@
 ---
 content_type: page
+description: I began my project by attempting to shoot images of perspective or planar
+  views in such a way that distorted one's normal viewpoint. After trying different
+  experimental methods, I decided that overlaying negatives was the best way to achieve
+  the discomforting effect on a viewer that I was trying to capture. My intent was
+  to cause people to question the image in front of them and how it related to the
+  world with which they are familiar. How do we react to the visual construction of
+  plane and perspective? Can an image of something we see everyday cause internal
+  disturbance simply by changing our viewpoint?
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

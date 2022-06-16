@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: In the brain, signals are passed from neuron to neuron via chemical synapses.
+  Light, like the thousands of neurotransmitters involved in synapses, is volatile
+  and contagious. Light is ready to relay a blazing message, glow with a bright idea,
+  or smolder as a withering thought. This semester, I sought to capture the beauty
+  of light in a way that would mimic the action that occurs within and the structure
+  that defines neurons.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
