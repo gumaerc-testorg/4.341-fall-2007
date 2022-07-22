@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Adele Phillips and Sadia Shirazi.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Biyeun Buczyk
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Biyeun Buczyk
 uid: b6e1d42d-28df-e23c-7d91-d9b19fe1009d
 ---
 Biyeun Buczyk, installation photo #1.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Gavin Lund
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Gavin Lund, installation photo #2.'
 uid: 53aab112-9ed5-b5ed-f409-1ad5b55cfb29
 ---
 Gavin Lund, installation photo #2.
-

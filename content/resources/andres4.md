@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Teagan Andres.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teagan Andres
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Teagan Andres, photograph #4.'
 uid: 09ff4b46-ef50-0b3c-c103-0b4882004a8c
 ---
 Teagan Andres, photograph #4.
-

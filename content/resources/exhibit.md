@@ -5,6 +5,7 @@ file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/3d6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exhibit.pdf
 uid: 3d643cb9-5e42-7024-5207-3fe5bf735019
 ---
 Poster used to advertise the exhibit of student's work from the class.
-

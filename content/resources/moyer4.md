@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ilan Moyer
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Ilan Moyer, installation photo #1.'
 uid: 79536c58-7b4c-b095-1b3e-1ffb5a5ae0d9
 ---
 Ilan Moyer, installation photo #1.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Ian Wolfe.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ian Wolfe
 parent_type: CourseSection
@@ -17,6 +18,4 @@ title: 'Ian Wolfe, photograph #4.'
 uid: d94343c8-09cc-f247-44c8-ea6fd4d9cdcc
 ---
 Ian Wolfe, photograph #4.
-
-
 

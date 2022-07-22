@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Andy Lin.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Andy Lin
 parent_type: CourseSection
@@ -17,6 +18,4 @@ title: 'Andy Lin, photograph #3.'
 uid: d2dbb591-03b4-5a4e-87b1-3617843c7c25
 ---
 Andy Lin, photograph #3.
-
-
 

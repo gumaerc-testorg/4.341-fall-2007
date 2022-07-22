@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Gavin Lund.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Gavin Lund
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Gavin Lund, photograph #3.'
 uid: ef5999e5-cf40-0746-d092-f7d95ff06093
 ---
 Gavin Lund, photograph #3.
-

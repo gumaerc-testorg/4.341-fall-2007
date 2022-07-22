@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Andy Lin
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Andy Lin, installation photo #1.'
 uid: fa6ef921-1f72-a7c6-e5fa-9b7368c0c4fe
 ---
 Andy Lin, installation photo #1.
-

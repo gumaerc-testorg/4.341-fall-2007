@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Biyeun Buczyk.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Biyeun Buczyk
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Biyeun Buczyk
 uid: d2b8ae0e-28a8-a4c5-492c-4de17741ee2c
 ---
 Biyeun Buczyk, photograph #2.
-

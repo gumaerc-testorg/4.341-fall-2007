@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Megan Pennington-Boggio
 parent_type: CourseSection
@@ -17,6 +18,4 @@ title: 'Megan Pennington-Boggio, installation photo #2.'
 uid: a13a8500-c4be-044f-d62d-f8b6d7907f4e
 ---
 Megan Pennington-Boggio, installation photo #2.
-
-
 

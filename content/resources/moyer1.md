@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Ilan Moyer.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ilan Moyer
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Ilan Moyer, photograph #1.'
 uid: e611ab09-7bb0-15a4-13a0-bbb9405e166c
 ---
 Ilan Moyer, photograph #1.
-

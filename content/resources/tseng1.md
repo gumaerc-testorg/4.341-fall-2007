@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Tiffany Tseng.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tiffany Tseng
 parent_type: CourseSection

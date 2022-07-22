@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Megan Pennington-Boggio.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Megan Pennington-Boggio
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Megan Pennington-Boggio, photograph #6.'
 uid: a639e1d7-dedd-71e0-506b-070717d5d1c7
 ---
 Megan Pennington-Boggio, photograph #6.
-

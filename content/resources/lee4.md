@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Adele Phillips and Sadia Shirazi.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jessica Lee
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Jessica Lee, installation photo #1.'
 uid: 3e9b6364-01ba-5085-4115-2d96df48e96e
 ---
 Jessica Lee, installation photo #1
-

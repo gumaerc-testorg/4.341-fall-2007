@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Jessica Lee
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jessica Lee
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Jessica Lee
 uid: 07b595a9-35f5-e107-c25f-2e7972bcd8ef
 ---
 Jessica Lee, photograph #1.
-

@@ -5,6 +5,7 @@ file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/0f0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: wolfe.pdf
 uid: 0f030176-fee9-d577-1eb2-ca9009091d32
 ---
 A student's description of his student project.
-

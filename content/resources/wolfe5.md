@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Adele Phillips and Sadia Shirazi.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ian Wolfe
 parent_type: CourseSection
@@ -17,6 +18,4 @@ title: 'Ian Wolfe, installation photo #1.'
 uid: 861376c1-c018-e6ed-9c3f-892d0e576abb
 ---
 Ian Wolfe, installation photo #1.
-
-
 
