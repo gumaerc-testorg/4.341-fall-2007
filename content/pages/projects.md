@@ -1,5 +1,6 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Projects
 uid: 69f4b17f-a6bd-b15a-f62d-e6f559e9fd54
 ---

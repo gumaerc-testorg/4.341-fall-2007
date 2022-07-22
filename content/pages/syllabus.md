@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains an overview of the course and information
+  about readings, grading criteria, and attendance.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 600855e2-0c52-f75d-6912-2698016f2072
 ---
@@ -18,7 +22,7 @@ This semester we will explore the MIT Department of Brain and Cognitive Sciences
 
 Work in progress is continuously presented and discussed in a critical forum. Lectures, readings, visiting professionals, group discussions, and site visits encourage aesthetic appreciation of the medium, as well as a critical awareness of how images in our culture are produced and constructed.
 
-The following proposal was submitted to the MIT Council for the Arts, and may also be of interest ([PDF]({{< baseurl >}}/resources/artscouncil)).
+The following proposal was submitted to the MIT Council for the Arts, and may also be of interest ({{% resource_link 62c87a75-6ee5-3b0b-316f-cd708e27010c "PDF" %}}).
 
 Readings
 --------
