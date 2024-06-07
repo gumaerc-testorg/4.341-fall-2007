@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Teagan Andres, photograph #2.'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/2277ecade08937e7abb6d0792fa5af72_andres2.jpg
+file_size: 87486
 file_type: image/jpeg
 image_metadata:
   caption: 'Teagan Andres, photograph #2.'

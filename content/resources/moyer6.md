@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Ilan Moyer, installation photo #3.'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/0527ce3b1710fc98d6387b6109be7c72_moyer6.jpg
+file_size: 67136
 file_type: image/jpeg
 image_metadata:
   caption: 'Ilan Moyer, installation photo #3.'

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Jessica Lee, installation photo #1'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/3e9b636401ba508541152d96df48e96e_lee4.jpg
+file_size: 43687
 file_type: image/jpeg
 image_metadata:
   caption: 'Jessica Lee, installation photo #1'

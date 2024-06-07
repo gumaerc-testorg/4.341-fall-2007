@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/f40de6bee372252c631bbd0cc9f54fd5_tseng1.jpg
+file_size: 60768
 file_type: image/jpeg
 image_metadata:
   caption: 'Tiffany Tseng, photograph #1.'

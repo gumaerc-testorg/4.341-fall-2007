@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Biyeun Buczyk, photograph #3.'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/bbaf814237bda4c0c31a776b1e74a37c_buczyk3.jpg
+file_size: 33805
 file_type: image/jpeg
 image_metadata:
   caption: 'Biyeun Buczyk, photograph #3.'

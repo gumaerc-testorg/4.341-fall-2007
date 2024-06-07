@@ -5,6 +5,7 @@ description: 'This semester''s course was based on the theme of "Through the Len
   vision, and memory might be thought about in the context of photography. (Photograph
   courtesy of Karen Law.)'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/886a9e411c2652313919bae190d2c399_chp_lens.jpg
+file_size: 27499
 file_type: image/jpeg
 image_metadata:
   caption: ''
