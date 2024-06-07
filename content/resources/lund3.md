@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Gavin Lund, photograph #3.'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/ef5999e5cf400746d092f7d95ff06093_lund3.jpg
+file_size: 46367
 file_type: image/jpeg
 image_metadata:
   caption: 'Gavin Lund, photograph #3.'

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Tiffany Tseng, installation photo #3.'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/3cf4550e9139d8c376969fc3f4c58644_tseng6.jpg
+file_size: 103692
 file_type: image/jpeg
 image_metadata:
   caption: 'Tiffany Tseng, installation photo #3.'

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Andy Lin, photograph #1.'
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/7ea99aef0f895186e9481d48de101f63_lin1.jpg
+file_size: 84621
 file_type: image/jpeg
 image_metadata:
   caption: 'Andy Lin, photograph #1.'
