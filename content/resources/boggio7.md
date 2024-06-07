@@ -2,6 +2,7 @@
 content_type: resource
 description: "Megan Pennington-Boggio, installation photo #1.\r\n\r\n"
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/c4c3a804da4737bec48aebcdf6d05ff7_boggio7.jpg
+file_size: 117611
 file_type: image/jpeg
 image_metadata:
   caption: 'Megan Pennington-Boggio, installation photo #1.'

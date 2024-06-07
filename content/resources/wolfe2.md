@@ -2,6 +2,7 @@
 content_type: resource
 description: "Ian Wolfe, photograph #2.\r\n\r\n"
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/71882d5246efb8e583be4bab328a9309_wolfe2.jpg
+file_size: 42555
 file_type: image/jpeg
 image_metadata:
   caption: 'Ian Wolfe, photograph #2.'

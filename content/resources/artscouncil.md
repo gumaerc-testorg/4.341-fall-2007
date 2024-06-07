@@ -5,6 +5,7 @@ description: A proposal submitted to the MIT Council for the Arts to help fund t
   to Photography and Related Media, the graduate level 4.343 Photography and Related
   Media, as well as photography independent study students.
 file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/62c87a756ee53b0b316fcd708e27010c_artscouncil.pdf
+file_size: 19407
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
