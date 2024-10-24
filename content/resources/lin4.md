@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Andy Lin, installation photo #1.'
-file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/fa6ef9211f72a7c6e5fa9b7368c0c4fe_lin4.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/fa6ef9211f72a7c6e5fa9b7368c0c4fe_lin4.jpg
 file_size: 45565
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Andy Lin, photograph #3.\r\n\r\n"
-file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/d2dbb59103b45a4e87b13617843c7c25_lin3.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/d2dbb59103b45a4e87b13617843c7c25_lin3.jpg
 file_size: 91591
 file_type: image/jpeg
 image_metadata:
