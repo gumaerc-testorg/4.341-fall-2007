@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Ian Wolfe, photograph #1.\r\n\r\n"
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/8783d8de36309aa8d5ed01ee873caa4f_wolfe1.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/8783d8de36309aa8d5ed01ee873caa4f_wolfe1.jpg
 file_size: 44550
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A student's description of his student project.
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/0f030176fee9d5771eb2ca9009091d32_wolfe.pdf
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/0f030176fee9d5771eb2ca9009091d32_wolfe.pdf
 file_size: 10303
 file_type: application/pdf
 learning_resource_types:

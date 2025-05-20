@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/945c19fc31c1a06a0b0f33e1fd7e3121_tseng2.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/945c19fc31c1a06a0b0f33e1fd7e3121_tseng2.jpg
 file_size: 54527
 file_type: image/jpeg
 image_metadata:

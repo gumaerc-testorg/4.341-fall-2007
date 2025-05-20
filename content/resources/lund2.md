@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Gavin Lund, photograph #2.'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/9a04de184ce4bb3cd1352e9fbfb2d62d_lund2.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/9a04de184ce4bb3cd1352e9fbfb2d62d_lund2.jpg
 file_size: 102220
 file_type: image/jpeg
 image_metadata:

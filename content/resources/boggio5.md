@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Megan Pennington-Boggio, photograph #5.\r\n\r\n"
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/bc60cb2ea55e97644879a449c44cca22_boggio5.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/bc60cb2ea55e97644879a449c44cca22_boggio5.jpg
 file_size: 102208
 file_type: image/jpeg
 image_metadata:

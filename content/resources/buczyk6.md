@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Biyeun Buczyk, installation photo #2.'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/50cd496e246f61fc354aae89755680d5_buczyk6.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/50cd496e246f61fc354aae89755680d5_buczyk6.jpg
 file_size: 83827
 file_type: image/jpeg
 image_metadata:
