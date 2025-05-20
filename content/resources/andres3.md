@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Teagan Andres, photograph #3.\r\n\r\n"
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/271a841d86cdae2308eb9db420769339_andres3.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/271a841d86cdae2308eb9db420769339_andres3.jpg
 file_size: 93298
 file_type: image/jpeg
 image_metadata:

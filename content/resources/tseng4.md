@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Tiffany Tseng, installation photo #1.'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/7d0a938913302e5ee94ec205d4d980a8_tseng4.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/7d0a938913302e5ee94ec205d4d980a8_tseng4.jpg
 file_size: 43087
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Megan Pennington-Boggio, installation photo #2.\r\n\r\n"
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/a13a8500c4be044fd62df8b6d7907f4e_boggio8.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/a13a8500c4be044fd62df8b6d7907f4e_boggio8.jpg
 file_size: 124590
 file_type: image/jpeg
 image_metadata:
