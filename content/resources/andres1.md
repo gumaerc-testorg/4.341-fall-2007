@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Teagan Andres, photograph #1.'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/b45a7ffad533c97de6d208dad483c1fa_andres1.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/b45a7ffad533c97de6d208dad483c1fa_andres1.jpg
 file_size: 115462
 file_type: image/jpeg
 image_metadata:

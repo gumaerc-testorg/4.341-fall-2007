@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Ilan Moyer, installation photo #1.'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/79536c587b4cb0951b3e1ffb5a5ae0d9_moyer4.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/79536c587b4cb0951b3e1ffb5a5ae0d9_moyer4.jpg
 file_size: 92601
 file_type: image/jpeg
 image_metadata:

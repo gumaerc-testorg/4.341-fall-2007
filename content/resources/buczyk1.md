@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Biyeun Buczyk, photograph #1.'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/ddfcfcb94bcc31ee273f3a47a004d724_buczyk1.jpg
+file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/ddfcfcb94bcc31ee273f3a47a004d724_buczyk1.jpg
 file_size: 63037
 file_type: image/jpeg
 image_metadata:
