@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Ilan Moyer, photograph #1.'
-file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/e611ab097bb015a413a0bbb9405e166c_moyer1.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/e611ab097bb015a413a0bbb9405e166c_moyer1.jpg
 file_size: 121959
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Jessica Lee, photograph #3.'
-file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/860bd9e2ea05d2a47e80e3b61c7f600f_lee3.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/860bd9e2ea05d2a47e80e3b61c7f600f_lee3.jpg
 file_size: 57589
 file_type: image/jpeg
 image_metadata:
