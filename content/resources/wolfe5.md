@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Ian Wolfe, installation photo #1.\r\n\r\n"
-file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/861376c1c018e6ed9c3f892d0e576abb_wolfe5.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/861376c1c018e6ed9c3f892d0e576abb_wolfe5.jpg
 file_size: 31351
 file_type: image/jpeg
 image_metadata:

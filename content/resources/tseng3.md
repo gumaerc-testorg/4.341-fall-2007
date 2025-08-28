@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Tiffany Tseng, photograph #3.'
-file: /courses/4-341-introduction-to-photography-and-related-media-fall-2007/7b778550d07114d5e63cd510ed55606b_tseng3.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-and-related-media-fall-2007/7b778550d07114d5e63cd510ed55606b_tseng3.jpg
 file_size: 119653
 file_type: image/jpeg
 image_metadata:
