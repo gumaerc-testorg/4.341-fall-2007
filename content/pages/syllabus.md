@@ -27,13 +27,13 @@ The following proposal was submitted to the MIT Council for the Arts, and may al
 Readings
 --------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631600) Mitchell, William J. "The Nascent Medium." In [_The Reconfigured Eye: Visual Truth in the Post-Photographic Era_](https://mitpress.mit.edu/9780262631600). Cambridge, MA: MIT Press, 1992. ISBN: 9780262631600.
+{{% resource_link "5d57f87e-faad-47cd-9bc8-1babaa3dc383" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. "The Nascent Medium." In {{% resource_link "5d57f87e-faad-47cd-9bc8-1babaa3dc383" "_The Reconfigured Eye: Visual Truth in the Post-Photographic Era_" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 9780262631600.
 
 Sacks, Oliver. "The Man Who Mistook His Wife for a Hat." In _The Man Who Mistook His Wife for a Hat and Other Clinical Tales_. 5th ed. New York, NY: Touchstone, 1998. ISBN: 9780684853949.
 
 Elkins, James. "Just Looking." In _The Object Stares Back: On the Nature of Seeing_. Orlando, FL: Harcourt, 1997. ISBN: 9780156004978.
 
-Hirsch, Robert. "[Flexible Images: Handmade American Photography, 1969-2002](http://www.lightresearch.net/articles/handmade.html)." _Exposure_ 36, no. 1 (2003): 23-42, and cover.
+Hirsch, Robert. "{{% resource_link "578bceb3-d8bf-4e24-96b8-388c2761f3aa" "Flexible Images: Handmade American Photography, 1969-2002" %}}." _Exposure_ 36, no. 1 (2003): 23-42, and cover.
 
 Horenstein, Henry. _Black and White Photography: A Basic Manual (excerpts)_. New York, NY: Little, Brown, 1983. ISBN: 9780316373142.
 
